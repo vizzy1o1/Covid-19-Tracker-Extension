@@ -1,5 +1,11 @@
 {
   "name": "Covid-19 Stats India",
+  "icons": {
+    "16": "logo_ext-modified.png",
+    "32": "logo_ext-modified.png",
+    "48": "logo_ext-modified.png",
+    "128": "logo_ext-modified.png"
+  },
   "version": "1.0.0",
   "description": "latest covid data of Indian states",
   "manifest_version": 3,
