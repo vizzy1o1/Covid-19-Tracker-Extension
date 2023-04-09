@@ -1,0 +1,11 @@
+{
+  "name": "Covid-19 Stats India",
+  "version": "1.0.0",
+  "description": "latest covid data of Indian states",
+  "manifest_version": 3,
+  "author": "T. Vijay Santosh Rao",
+  "action":{
+      "default_popup": "index.html",
+      "default_title": "Latest Covid Report"
+  }
+}
